@@ -6,4 +6,4 @@
 
 const latihan = require('./latihan');
 
-console.log(latihan.cetakNama('pandu'), latihan.PI, latihan.mahasiswa.cetakMhs());
+console.log(latihan.cetakNama('pandu yoga'), latihan.PI, latihan.mahasiswa.cetakMhs());
